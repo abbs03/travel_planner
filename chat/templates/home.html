@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Travel Agent</title>
+  <style>
+    body { 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      height: 100vh; 
+      font-family: Arial, sans-serif; 
+      background: #f9f9f9;
+      flex-direction: column;
+    }
+    h1 { font-size: 2.5rem; margin-bottom: 20px; }
+    .btn {
+      padding: 12px 25px;
+      font-size: 1.2rem;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>AI Travel Agent</h1>
+  <a href="{% url 'index' %}">
+    <button class="btn">Start Planning</button>
+  </a>
+</body>
+</html>
