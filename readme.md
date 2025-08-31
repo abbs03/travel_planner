@@ -1,0 +1,3 @@
+# AI Travel Agent
+
+This project is an AI-powered travel agent web application. It uses a conversational agent built with **LangGraph** to assist users in planning their trips. The application is a backend service using **Django** to handle web requests and an agent framework to manage the conversation flow.
