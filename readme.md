@@ -8,5 +8,5 @@ This project is an AI-powered travel agent web app. It uses a conversational age
 ## Agent Workflow Graph
 
 <p align="center">
-  <img src="agent_graph.png" alt="AI Travel Agent Graph">
+  <img src="graph.png" alt="AI Travel Agent Graph">
 </p>
