@@ -16,25 +16,25 @@ This project is a simple AI-powered travel agent web app. It uses a conversation
 
 ### Setup and Running the Application
 
-1.  **Clone the Repository:** First, clone the repository to your local machine.
+1.  **Clone the Repository:**
     
     ```bash
     git clone <repository_url>
     cd <repository_name>
     ```
 
-2.  **Create a Virtual Environment:** It is best practice to create a virtual environment to manage project dependencies.
+2.  **Create a Virtual Environment:** 
 
     ```bash
     python -m venv venv
     ```
 
-3.  **Activate the Virtual Environment:** Activate the environment based on your operating system.
+3.  **Activate the Virtual Environment:** 
 
     * On Windows: `venv\Scripts\activate`
     * On macOS/Linux: `source venv/bin/activate`
 
-4.  **Install Dependencies:** Install all the required packages listed in `requirements.txt`.
+4.  **Install Dependencies:** 
 
     ```bash
     pip install -r requirements.txt
