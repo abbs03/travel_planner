@@ -53,4 +53,4 @@ This project is a simple AI-powered travel agent web app. It uses a conversation
     python manage.py runserver
     ```
 
-Your travel agent web app should now be running locally at `http://127.0.0.1:8000/`.
+The travel agent web app should now be running locally at `http://127.0.0.1:8000/`.
