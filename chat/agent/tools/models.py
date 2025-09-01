@@ -31,4 +31,3 @@ class AgentState(TypedDict):
     """Agent state"""
     messages: Annotated[list, add_messages]
     initial_details: Optional[UserInput]
-    chosen_destination: Optional[str]
