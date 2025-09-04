@@ -58,10 +58,12 @@ The travel agent web app should now be running locally at `http://127.0.0.1:8000
 
 ---
 
-### Using the chatbot
+### Using the Chatbot
 
-Homepage
-<p align="center"> <img src="assets/homepage.png" alt="Homepage"> </p>
-Chat Interface
-<p align="center"> <img src="assets/chat.png" alt="Chat Interface"> </p> ```
+<div align="center">
+  <h4>Homepage</h4>
+  <img src="assets/homepage.png" alt="Homepage">
+  <h4>Chat Interface</h4>
+  <img src="assets/chat.png" alt="Chat Interface">
+</div>
 
