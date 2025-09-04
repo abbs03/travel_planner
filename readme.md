@@ -8,7 +8,7 @@ This project is a simple AI-powered travel agent web app. It uses a conversation
 ### Agent Workflow Graph
 
 <p align="center">
-  <img src="graph.png" alt="AI Travel Agent Graph">
+  <img src="assets/graph.png" alt="AI Travel Agent Graph">
 </p>
 
 
@@ -54,3 +54,14 @@ This project is a simple AI-powered travel agent web app. It uses a conversation
     ```
 
 The travel agent web app should now be running locally at `http://127.0.0.1:8000/`.
+
+
+---
+
+### Using the chatbot
+
+Homepage
+<p align="center"> <img src="assets/homepage.png" alt="Homepage"> </p>
+Chat Interface
+<p align="center"> <img src="assets/chat.png" alt="Chat Interface"> </p> ```
+
